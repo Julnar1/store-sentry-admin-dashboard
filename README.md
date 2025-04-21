@@ -64,7 +64,7 @@ A modern, responsive admin dashboard built with Next.js, Material-UI, and Redux 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/store-sentry.git
+   git clone https://github.com/Julnar1/store-sentry-admin-dashboard.git
    cd store-sentry
    ```
 
