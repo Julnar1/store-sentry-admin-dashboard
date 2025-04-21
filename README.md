@@ -30,6 +30,10 @@ A modern, responsive admin dashboard built with Next.js, Material-UI, and Redux 
   - Toast notifications
   - Loading states and error handling
 
+## 🚀 Live Demo
+
+[View Live Demo](https://store-sentry-admin-dashboard.vercel.app/)
+
 ## 🛠️ Tech Stack
 
 - **Frontend Framework**
